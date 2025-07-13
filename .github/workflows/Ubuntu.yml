@@ -1,5 +1,7 @@
 name: Ubuntu
 true:
+
+on:
   workflow_dispatch:
     inputs:
       authcode:
